@@ -1,0 +1,40 @@
+body {
+	background-image: url('silvia-brazzoduro-431498-unsplash.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+h1, .uppercase {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 400%;
+}
+
+.jumbotron {
+	background-color: transparent; 
+}
+
+.btn {
+	width: 300px;
+}
+
+.btn-info {
+	background-color: rgb(209,236,241);
+	border: none;
+	color: grey;
+}
+
+.btn-light {
+	color: grey;
+}
+
+p {
+	color: white;
+}
+
+.modal-content {
+	background-color: rgba(255,255,255, 0.9);
+}
