@@ -1,7 +1,8 @@
-body {
+body, html {
 	background-image: url('silvia-brazzoduro-431498-unsplash.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%;
 	background-position: center;
 }
 
@@ -13,8 +14,13 @@ h1, .uppercase {
 	font-size: 400%;
 }
 
+.row {
+	position: center;
+}
+
 .jumbotron {
 	background-color: transparent; 
+	position: center;
 }
 
 .btn {
